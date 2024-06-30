@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34a0b424.css",
+    "main.js": "/static/js/main.7efc20d7.js",
+    "static/media/video.gif": "/static/media/video.2edb0f542950d5d1586e.gif",
+    "static/media/myPhoto.png": "/static/media/myPhoto.c4da24d7835de7f44199.png",
+    "static/media/warGame.png": "/static/media/warGame.be0d6b41d71cf3bcf736.png",
+    "index.html": "/index.html",
+    "main.34a0b424.css.map": "/static/css/main.34a0b424.css.map",
+    "main.7efc20d7.js.map": "/static/js/main.7efc20d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a0b424.css",
+    "static/js/main.7efc20d7.js"
+  ]
+}
