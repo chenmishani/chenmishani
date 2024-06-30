@@ -1,0 +1,9 @@
+/* src/Footer.css */
+.footer {
+    background-color: rgb(248, 244, 239);
+    text-align: center;
+    padding-top: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
