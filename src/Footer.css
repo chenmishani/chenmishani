@@ -1,7 +1,10 @@
 /* src/Footer.css */
 .footer {
-    background-color: rgb(248, 244, 239);
-    text-align: center;
+    background-color: black;
+    border-top: 1px solid #e7e7e7;  
+    color: white;
+    /* text-align: center; */
+    padding-left: 30px;
     padding-top: 10px;
     position: fixed;
     width: 100%;
